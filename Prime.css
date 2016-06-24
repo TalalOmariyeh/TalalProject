@@ -1,0 +1,9 @@
+        #divResult {
+            float:left;
+            margin:10px;
+            border-bottom:1px dotted #808080;
+        }
+
+.border {
+    border-bottom:1px dotted #808080;
+}
